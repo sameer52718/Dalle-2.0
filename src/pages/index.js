@@ -1,7 +1,7 @@
 import CreatePost from "./CreatePost";
-import home from "./home";
+import Home from "./Home";
 
 export {
     CreatePost,
-    home
+    Home
 }
